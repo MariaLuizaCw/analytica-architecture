@@ -2,7 +2,7 @@
 name: Analytica Architecture
 
 env:
-  AZURE_WEBAPP_NAME: analytica-architecture
+  AZURE_WEBAPP_NAME: Ufrj-analytica-architecture
   AZURE_WEBAPP_PACKAGE_PATH: '.'
   PYTHON_VERSION: '3.7'
 
